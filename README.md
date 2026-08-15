@@ -29,8 +29,9 @@
 
 **[Stockflow Manager frontend](https://github.com/alpShema/stockflow-frontend)**
 > Next.js 15 App Router · TypeScript · Tailwind CSS · Zustand
-REST API Integration · Role-based Access Control · In-memory Caching
- · Vercel Deployment
+REST API Integration · Role-based Access Control · In-memory Caching · Vercel Deployment
+
+
 **[stockflow manager backend](https://github.com/alpShema/stockflow-backend.git)**
 > Spring Boot · REST API · JWT · JPA / Hibernate
 PostgreSQL · Apache Kafka · Docker · Railway
