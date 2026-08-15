@@ -27,11 +27,11 @@
 **[Food Delivery Platform — Microservices](https://github.com/alpShema/food-delivery-platform-microservices)**
 > A production-grade food delivery system built with Java 21 and Spring Boot 3, migrated from a monolith into 6 microservices (Eureka discovery, API Gateway, JWT auth, OpenFeign, Resilience4j circuit breakers, RabbitMQ event-driven delivery), fully containerized with Docker Compose.
 
-**[Stock Manager](https://github.com/alpShema/Stock-Manager)**
-> A stock/inventory management web app built with Next.js, TypeScript, and Tailwind CSS.
+**[Stockf Manager](https://github.com/alpShema/stockflow-frontend)**
+> A modern stock and inventory management web app built with Next.js 15, TypeScript, and Tailwind CSS. Supports multi-currency sales (USD & Congolese Francs), real-time till tracking, expense management, debt and advance tracking, and role-based access control.
 
-**[Growth Plan Tracker](https://github.com/alpShema/Growth-Plan-Tracker)**
-> A trading growth tracker with compounding round logic, loss auto-resolution, CSV export, JSON backup/restore, and cloud sync — deployed on Vercel.
+**[stock manager](https://github.com/alpShema/stockflow-backend.git)**
+> A Spring Boot REST API powering the Stockflow inventory management system. Handles sales, stock, till transactions, expenses, advances, debts, and user management with JWT-based authentication and multi-currency support.
 
 ---
 
