@@ -29,7 +29,7 @@
 It supports multi-role access (Client, Agent, Admin, Super Admin) with fine-grained 
 permission control, automated agent assignment, SLA monitoring, real-time in-app 
 notifications, SSO authentication via OAuth2/JWT, and an AI-powered chatbot and FAQ 
-system backed by the Amali-AI service.
+system backed by the OpenAI service.
 
 Built with: Java 21 · Spring Boot · PostgreSQL · Flyway · WebSocket · Docker · CI/CD
 
