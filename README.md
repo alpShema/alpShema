@@ -18,14 +18,24 @@
 
 💬 Ask me about **Java, Spring Boot, React, Next.js, TypeScript, Docker**, or CI/CD workflows
 
-⚡ Fun fact: I containerize almost everything I build — if it runs, it probably runs in Docker
+⚡ Fun fact: I containerise almost everything I build — if it runs, it probably runs in Docker
 
 ---
 
 ### 🚀 Featured Projects
 
+**[Incident Management System backend](https://github.com/alpShema/incident-management-system-backend)**
+> An incident management system is a backend built with Spring Boot and Java 21. 
+It supports multi-role access (Client, Agent, Admin, Super Admin) with fine-grained 
+permission control, automated agent assignment, SLA monitoring, real-time in-app 
+notifications, SSO authentication via OAuth2/JWT, and an AI-powered chatbot and FAQ 
+system backed by the Amali-AI service.
+
+Built with: Java 21 · Spring Boot · PostgreSQL · Flyway · WebSocket · Docker · CI/CD
+
+
 **[Food Delivery Platform — Microservices](https://github.com/alpShema/food-delivery-platform-microservices)**
-> A production-grade food delivery system built with Java 21 and Spring Boot 3, migrated from a monolith into 6 microservices (Eureka discovery, API Gateway, JWT auth, OpenFeign, Resilience4j circuit breakers, RabbitMQ event-driven delivery), fully containerized with Docker Compose.
+> A production-grade food delivery system built with Java 21 and Spring Boot 3, migrated from a monolith into 6 microservices (Eureka discovery, API Gateway, JWT auth, OpenFeign, Resilience4j circuit breakers, RabbitMQ event-driven delivery), fully containerised with Docker Compose.
 
 **[Stockflow Manager frontend](https://github.com/alpShema/stockflow-frontend)**
 > Next.js 15 App Router · TypeScript · Tailwind CSS · Zustand
@@ -35,7 +45,7 @@ REST API Integration · Role-based Access Control · In-memory Caching · Vercel
 **[stockflow manager backend](https://github.com/alpShema/stockflow-backend.git)**
 > Spring Boot · REST API · JWT · JPA / Hibernate
 PostgreSQL · Apache Kafka · Docker · Railway
-Role-based Authorization · Multi-currency Processing
+Role-based Authorisation · Multi-currency Processing
 
 ---
 
