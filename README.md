@@ -24,8 +24,8 @@
 
 ### 🚀 Featured Projects
 
-**[Incident Management System backend](https://github.com/alpShema/incident-management-system-backend)**
-> An incident management system is a backend built with Spring Boot and Java 21. 
+**[Ticket routing service backend](https://github.com/alpShema/ticket-routing-service)**
+> A ticket routing service  is a backend built with Spring Boot and Java 21. 
 It supports multi-role access (Client, Agent, Admin, Super Admin) with fine-grained 
 permission control, automated agent assignment, SLA monitoring, real-time in-app 
 notifications, SSO authentication via OAuth2/JWT, and an AI-powered chatbot and FAQ 
